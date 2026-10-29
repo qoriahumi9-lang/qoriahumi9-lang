@@ -1,0 +1,6 @@
+{
+  "name": "NEON POS - Sistem Kasir Modern Gen Z",
+  "description": "Aplikasi Point of Sale futuristik dengan tema hitam dan biru neon untuk kafe, kedai minuman, dan ritel modern. Dilengkapi katalog, keranjang pintar, pembayaran tunai/QRIS, cetak struk, dan dashboard penjualan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
